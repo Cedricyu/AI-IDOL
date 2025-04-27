@@ -7,3 +7,6 @@
 [submodule "musetalk_on_sagemaker"]
 	path = musetalk_on_sagemaker
 	url = https://github.com/bohong1906/musetalk_on_sagemaker
+[submodule "llm_server"]
+	path = llm_server
+	url = https://github.com/chengyen0206/llm_server.git
