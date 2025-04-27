@@ -1,0 +1,9 @@
+[submodule "streaming"]
+	path = streaming
+	url = https://github.com/Cedricyu/streaming.git
+[submodule "demo_frontend"]
+	path = demo_frontend
+	url = https://github.com/chengyen0206/demo_frontend.git
+[submodule "musetalk_on_sagemaker"]
+	path = musetalk_on_sagemaker
+	url = https://github.com/bohong1906/musetalk_on_sagemaker
